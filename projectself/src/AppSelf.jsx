@@ -36,7 +36,7 @@ function AppSelf(){
             <h1>{today.toLocaleDateString()}</h1>
             <hr/>
             <h3>안녕하세요 {userName}님 오늘은 {day}일 입니다. {date}이니 힘내세요. 행복한 하루 보내세요.</h3>
-            <h1>추가했다.</h1>
+            
         </div>
     )
 }
