@@ -41,9 +41,10 @@ bower_components
 psd
 thumb
 sketch
-projectself/src/App.jsx
+
 
 
 
 
 # End of https://www.toptal.com/developers/gitignore/api/react
+src/App.jsx
